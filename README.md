@@ -5,4 +5,5 @@
 <p>- HTML</p>
 <p>- CSS</p>
 <p>- JavaScript</p>
+<h4>Link do projeto: https://intagram-fake.netlify.app/</h4>
 <img src="https://github.com/ericktanaka/Projeto-Instagram/blob/master/img/Desktop.png?raw=true">
